@@ -1,2 +1,2 @@
 
-Heroku Link: https://simplecalculator-react-app.herokuapp.com/ 
+Heroku Link: https://react-app-calculator.herokuapp.com/
