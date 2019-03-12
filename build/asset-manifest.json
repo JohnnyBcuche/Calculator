@@ -1,13 +1,13 @@
 {
-  "main.css": "/Cards-game/static/css/main.88559931.chunk.css",
-  "main.js": "/Cards-game/static/js/main.aa6cd231.chunk.js",
-  "main.js.map": "/Cards-game/static/js/main.aa6cd231.chunk.js.map",
-  "runtime~main.js": "/Cards-game/static/js/runtime~main.5500caba.js",
-  "runtime~main.js.map": "/Cards-game/static/js/runtime~main.5500caba.js.map",
-  "static/js/2.eee2db99.chunk.js": "/Cards-game/static/js/2.eee2db99.chunk.js",
-  "static/js/2.eee2db99.chunk.js.map": "/Cards-game/static/js/2.eee2db99.chunk.js.map",
-  "index.html": "/Cards-game/index.html",
-  "precache-manifest.102f310dc5ad51baac17845565de99bd.js": "/Cards-game/precache-manifest.102f310dc5ad51baac17845565de99bd.js",
-  "service-worker.js": "/Cards-game/service-worker.js",
-  "static/css/main.88559931.chunk.css.map": "/Cards-game/static/css/main.88559931.chunk.css.map"
+  "main.css": "/Calculator/static/css/main.88559931.chunk.css",
+  "main.js": "/Calculator/static/js/main.721178cf.chunk.js",
+  "main.js.map": "/Calculator/static/js/main.721178cf.chunk.js.map",
+  "runtime~main.js": "/Calculator/static/js/runtime~main.c2a97d8d.js",
+  "runtime~main.js.map": "/Calculator/static/js/runtime~main.c2a97d8d.js.map",
+  "static/js/2.eee2db99.chunk.js": "/Calculator/static/js/2.eee2db99.chunk.js",
+  "static/js/2.eee2db99.chunk.js.map": "/Calculator/static/js/2.eee2db99.chunk.js.map",
+  "index.html": "/Calculator/index.html",
+  "precache-manifest.0512afd2aeb9083451db64a2239152a8.js": "/Calculator/precache-manifest.0512afd2aeb9083451db64a2239152a8.js",
+  "service-worker.js": "/Calculator/service-worker.js",
+  "static/css/main.88559931.chunk.css.map": "/Calculator/static/css/main.88559931.chunk.css.map"
 }
