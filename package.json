@@ -2,7 +2,7 @@
   "name": "calculator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/JohnnyBcuche/Calculator/",
+  "homepage": "https://JohnnyBcuche.github.io/Calculator/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "immutability-helper": "^3.0.0",
